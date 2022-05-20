@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NIRS_2022" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="User_graphics.app_Equa" />
+    <module name="Equalizer_COS" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;D:\Program Files\Java\javafx-sdk-18.0.1\lib&quot; --add-modules=javafx.controls,javafx.swing,javafx.base,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
